@@ -35,6 +35,7 @@ functions/mock
 .umi-production
 
 # screenshot
+<<<<<<< HEAD
 screenshot
 
 /hooks
@@ -42,3 +43,6 @@ screenshot
 HEAD
 config
 description
+=======
+screenshot
+>>>>>>> bfcf03544161a04054e8eff426ee694d6917d42c
